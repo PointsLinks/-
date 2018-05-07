@@ -1,6 +1,6 @@
 <!--index.wxml-->
 <view class="container">
-    <!-- 用户登录测试 -->
+    <!-- 用户登录测试1 -->
     <view class="userinfo" bindtap="login">
         <image
             class="userinfo-avatar"
